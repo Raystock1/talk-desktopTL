@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TEMP\\projects\\talk-desktop\\spreed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\MessagesList\\MessagesList.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\MessagesList\\MessagesList.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\ConversationsList\\Conversation.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeftSidebar\\ConversationsList\\Conversation.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\App.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\store\\conversationsStore.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\conversationsStore.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\MessagesList\\MessagesGroup\\Message\\MessageButtonsBar\\MessageForwarder.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\MessagesList\\MessagesGroup\\Message\\MessageButtonsBar\\MessageForwarder.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\ConversationsList\\ConversationsListVirtual.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeftSidebar\\ConversationsList\\ConversationsListVirtual.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\utils\\conversation.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\conversation.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\services\\messagesService.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\messagesService.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\RightSidebar\\Participants\\ParticipantsTab.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\RightSidebar\\Participants\\ParticipantsTab.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\LeftSidebar.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeftSidebar\\LeftSidebar.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\ExtendOneToOneDialog.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ExtendOneToOneDialog.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\NewConversationDialog\\NewConversationContactsPage.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\NewConversationDialog\\NewConversationContactsPage.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesList.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\MessagesList\\MessagesList.vue",
+              "RelativeDocumentMoniker": "src\\components\\MessagesList\\MessagesList.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\MessagesList\\MessagesList.vue*",
+              "RelativeToolTip": "src\\components\\MessagesList\\MessagesList.vue*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T05:57:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "messagesService.ts",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\services\\messagesService.ts",
+              "RelativeDocumentMoniker": "src\\services\\messagesService.ts",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\services\\messagesService.ts",
+              "RelativeToolTip": "src\\services\\messagesService.ts",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-30T05:38:22.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversation.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\ConversationsList\\Conversation.vue",
+              "RelativeDocumentMoniker": "src\\components\\LeftSidebar\\ConversationsList\\Conversation.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\ConversationsList\\Conversation.vue",
+              "RelativeToolTip": "src\\components\\LeftSidebar\\ConversationsList\\Conversation.vue",
+              "ViewState": "AgIAACoBAAAAAAAAAAAkwEIBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T04:29:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "conversation.ts",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\utils\\conversation.ts",
+              "RelativeDocumentMoniker": "src\\utils\\conversation.ts",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\utils\\conversation.ts",
+              "RelativeToolTip": "src\\utils\\conversation.ts",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-30T04:27:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeftSidebar.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\LeftSidebar.vue",
+              "RelativeDocumentMoniker": "src\\components\\LeftSidebar\\LeftSidebar.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\LeftSidebar.vue",
+              "RelativeToolTip": "src\\components\\LeftSidebar\\LeftSidebar.vue",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwJ8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T04:15:44.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewConversationContactsPage.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\NewConversationDialog\\NewConversationContactsPage.vue",
+              "RelativeDocumentMoniker": "src\\components\\NewConversationDialog\\NewConversationContactsPage.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\NewConversationDialog\\NewConversationContactsPage.vue",
+              "RelativeToolTip": "src\\components\\NewConversationDialog\\NewConversationContactsPage.vue",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAwwNcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T00:12:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExtendOneToOneDialog.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\ExtendOneToOneDialog.vue",
+              "RelativeDocumentMoniker": "src\\components\\ExtendOneToOneDialog.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\ExtendOneToOneDialog.vue",
+              "RelativeToolTip": "src\\components\\ExtendOneToOneDialog.vue",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T00:08:06.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParticipantsTab.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\RightSidebar\\Participants\\ParticipantsTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\RightSidebar\\Participants\\ParticipantsTab.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\RightSidebar\\Participants\\ParticipantsTab.vue",
+              "RelativeToolTip": "src\\components\\RightSidebar\\Participants\\ParticipantsTab.vue",
+              "ViewState": "AgIAALYAAAAAAAAAAAAWwJ8BAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T00:07:23.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conversationsStore.js",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\store\\conversationsStore.js",
+              "RelativeDocumentMoniker": "src\\store\\conversationsStore.js",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\store\\conversationsStore.js",
+              "RelativeToolTip": "src\\store\\conversationsStore.js",
+              "ViewState": "AgIAAPUEAAAAAAAAAAAQwBMFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-03T23:05:02.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\App.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\App.vue",
+              "RelativeToolTip": "src\\App.vue",
+              "ViewState": "AgIAAGsCAAAAAAAAAAAUwIQCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T06:02:31.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConversationsListVirtual.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\ConversationsList\\ConversationsListVirtual.vue",
+              "RelativeDocumentMoniker": "src\\components\\LeftSidebar\\ConversationsList\\ConversationsListVirtual.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\LeftSidebar\\ConversationsList\\ConversationsListVirtual.vue",
+              "RelativeToolTip": "src\\components\\LeftSidebar\\ConversationsList\\ConversationsListVirtual.vue",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwJgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T06:29:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageForwarder.vue",
+              "DocumentMoniker": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\MessagesList\\MessagesGroup\\Message\\MessageButtonsBar\\MessageForwarder.vue",
+              "RelativeDocumentMoniker": "src\\components\\MessagesList\\MessagesGroup\\Message\\MessageButtonsBar\\MessageForwarder.vue",
+              "ToolTip": "C:\\TEMP\\projects\\talk-desktop\\spreed\\src\\components\\MessagesList\\MessagesGroup\\Message\\MessageButtonsBar\\MessageForwarder.vue",
+              "RelativeToolTip": "src\\components\\MessagesList\\MessagesGroup\\Message\\MessageButtonsBar\\MessageForwarder.vue",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAewFoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T06:46:16.727Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

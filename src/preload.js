@@ -182,4 +182,12 @@ const TALK_DESKTOP = {
 }
 
 // Set global window.TALK_DESKTOP
-contextBridge.exposeInMainWorld('TALK_DESKTOP', TALK_DESKTOP)
+contextBridge.exposeInMainWorld('TALK_DESKTOP', {
+  onNewChatMessage: (msg) => {
+    ipcRenderer.send('newMessage', msg)
+  },
+  markMessagesAsRead: () => {
+    ipcRenderer.send('clearMessages')
+  }
+})
+})
