@@ -1,0 +1,272 @@
+
+
+
+
+:root {
+    --brand-primary: rgb(0, 155, 122);
+    --brand-primary2: rgb(0, 155, 150);
+
+    --brand-additional-70: rgb(52, 177, 154);
+    --brand-additional-30: rgb(171, 215, 204);
+    --brand-additional-445-70: rgb(135, 149, 142);
+    --brand-additional-445-40: rgb(180, 191, 186);
+    --brand-additional-5855-100: rgb(217, 211, 164);
+    --brand-additional-5855-40: rgb(238, 235, 213);
+}
+
+/* Обязательно импортируйте этот файл после основных стилей. */
+
+/* Глобальные стили */
+body {
+    background-color: #94D5D2 !important;
+    font-family: 'ProgmaticaC', sans-serif !important;
+    color: #2c3e50 !important;
+}
+
+.btn {
+    background-color: var(--brand-primary) !important;
+    border: none !important;
+    color: #94D5D2 !important;
+    font-family: 'ProgmaticaC', sans-serif !important;
+}
+
+/* Контейнер для всех сообщений */
+.wrapper.messages-group {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 6px !important;
+}
+
+/* Лента сообщений */
+.wrapper.messages-group .messages {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+/* Пузырёк сообщения */
+li.message {
+    display: inline-block !important;
+    flex: none !important;
+    width: auto !important;
+    max-width: 75% !important;
+    min-width: 40px !important;
+
+    background: #fff !important;
+    padding: 8px 12px 20px !important;
+    margin: 4px 6px 2px !important;
+    border-radius: 20px !important;
+    border: 1px solid var(--brand-primary) !important;
+    position: relative !important;
+    vertical-align: top !important;
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+    font-size: 14px !important;
+    line-height: 1.3 !important;
+}
+
+/* Вложенные контейнеры для текста */
+.message-body,
+.message-main,
+.message-main__text,
+.rich-text--wrapper {
+    display: inline-block !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    vertical-align: top !important;
+}
+
+#call_button.button-vue {
+	 background-color: rgba(0, 155, 122, 0.9) !important;
+	  border: 1px solid rgba(0, 0, 0, 0.1) !important;    
+    border-radius: 10px !important;
+}
+
+.list-item:hover {
+  background-color: rgba(0, 155, 122, 0.15) !important; /* подбери свой цвет */
+  transition: background-color 0.2s ease-in-out;
+  border-radius: 8px !important; /* по желанию */
+}
+.list-item__wrapper--active .list-item {
+  background-color: rgba(0, 155, 122, 0.8) !important;
+  transition: background-color 0.3s ease-in-out;
+  border-radius: 8px;
+}
+.list-item__wrapper--active .action-item__menutoggle {
+  background-color: rgba(0, 155, 122, 0.60) !important;
+  border-radius: 30%;
+}
+
+
+.button-vue--vue-primary {
+  background-color: var(--brand-primary) !important;
+  border-color: var(--brand-primary) !important;
+  color: white !important;
+}
+
+.button-vue--vue-primary:hover {
+  background-color: var(--brand-additional-70) !important;
+}
+
+.app-navigation__item--active {
+  background-color: rgba(0, 155, 122, 0.1) !important;
+  border-left: 3px solid var(--brand-primary) !important;
+  color: var(--brand-primary) !important;
+
+}
+
+.material-design-icon {
+  color: var(--brand-primary) !important;
+  fill: #666 !important;
+}
+
+
+
+
+.button-vue__text,
+.phone-icon {
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+/* Убираем отступы у абзацев */
+.rich-text--wrapper p {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: inline !important;
+    line-height: inherit !important;
+}
+
+/* Скрываем вспомогательные виджеты */
+.rich-text--reference-widget {
+    display: none !important;
+}
+
+/* Время и статус */
+.message-main__info {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 2px !important;
+    margin-top: 4px !important;
+    font-size: 11px !important;
+    color: #8e8e8e !important;
+}
+
+.message-main__info .date {
+    display: inline-block !important;
+    white-space: nowrap !important;
+}
+
+.message-status {
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+/* Ховер по сообщению */
+.message--hovered {
+    background: rgb(0, 155, 180) !important;
+    border: 4px solid rgb(0, 155, 180) !important;
+    border-radius: 10px !important;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.50) !important;
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+}
+
+/* Скрытие системных сообщений */
+.messages-group__system,
+.message[data-message-id*="joined"],
+.message[data-message-id*="left"] {
+    display: none !important;
+}
+
+/* Убираем боковые панели при звонке */
+.call-users-list,
+.spreed-users-sidebar,
+.user-list,
+.users-panel {
+    display: none !important;
+}
+
+/* Исходящие сообщения */
+li.message.currentUser {
+    align-self: flex-end !important;
+    background: var(--brand-additional-30) !important;
+    border: 1px solid var(--brand-primary2) !important;
+    text-align: right !important;
+		box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Входящие сообщения */
+li.message:not(.currentUser) {
+    align-self: flex-start !important;
+    box-shadow: 0	1px 8px rgba(0, 0, 0, 0.15) !important;
+    /*backdrop-filter: blur(7px) !important;*/
+    border: 1px solid var(--brand-primary) !important;
+    text-align: left !important;
+}
+
+/* Стили для хедера и навигации */
+.header-right,
+.header-left {
+    background-color: rgba(52, 177, 154, 0.2) !important;
+    backdrop-filter: blur(2px) !important;
+}
+
+
+.app-navigation__content {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    backdrop-filter: blur(7px) !important;
+ 		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+}
+
+.title-bar {
+    background-color: rgba(0, 155, 122, 0.8) !important;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+}
+
+
+/* Фоновое изображение чата */
+.chatView {
+     background-image: url('img/chatbackground.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+
+/* Скрываем исключительно группу «Оформление» */
+.settings-form-group:has(.theme-light-dark-icon) {
+  display: none !important;
+}
+
+/* скрываем input и его label */
+#checkbox-radio-switch-fwybl,
+#checkbox-radio-switch-fwybl ~ .checkbox-radio-switch__content {
+  display: none !important;
+}
+
+/* «схлопываем» пустой wrapper */
+.checkbox-radio-switch-switch[style*="--icon-size"]:has(:empty) {
+  display: none !important;
+}
+
+.top-bar {
+ 
+	
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+}
+.app-sidebar,
+.active-tab-chat {
+ box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+}
+.top-bar--in-call {
+    background-color: rgba(0, 155, 122, 0.1) !important;
+	
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+}
+.title-bar__channel {
+  display: none !important;
+}
+
+.chat-button-unread-marker {
+  background-color: #FF3333 !important;
+}
